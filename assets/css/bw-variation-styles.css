@@ -1,0 +1,13 @@
+.woocommerce-variation-description .variation-custom-field {
+    margin: 5px 0;
+    display: block;
+}
+
+.woocommerce-variation-description .variation-custom-field .label {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.woocommerce-variation-description .variation-custom-field .value {
+    color: #666;
+}

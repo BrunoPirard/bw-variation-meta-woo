@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 17:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: custom-meta-woo.php:137 custom-meta-woo.php:472 custom-meta-woo.php:529
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: custom-meta-woo.php:165
+#, php-format
+msgid ""
+"This plugin requires WooCommerce to be installed and activated. You can "
+"download %s here. <br><a href=\"%s\">Back to plugins page</a>"
+msgstr ""
+
+#: custom-meta-woo.php:178
+#, php-format
+msgid ""
+"This plugin requires a version of WooCommerce higher than 8.0. You can "
+"download %s here. <br><a href=\"%s\">Back to plugins page</a>"
+msgstr ""
+
+#: custom-meta-woo.php:283
+#, php-format
+msgid "%s (%s)"
+msgstr ""
+
+#: custom-meta-woo.php:392
+#, php-format
+msgctxt "formatted dimensions"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: custom-meta-woo.php:397
+msgid "N/A"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:51
+#: includes/class-bw-variation-settings.php:52
+msgid "Variation Meta Fields"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:70
+msgid "Variation Meta Fields Settings"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:80
+#: includes/class-bw-variation-settings.php:155
+msgid "Field ID"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:81
+#: includes/class-bw-variation-settings.php:156
+msgid "Field Label"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:82
+#: includes/class-bw-variation-settings.php:157
+msgid "Field Description"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:83
+#: includes/class-bw-variation-settings.php:162
+msgid "Remove"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:109
+msgid "Custom Meta Fields"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:116
+msgid "Meta Fields"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:132
+msgid "Add your custom variation meta fields below:"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:160
+msgid "Hide on product"
+msgstr ""
+
+#: includes/class-bw-variation-settings.php:169
+msgid "Add Field"
+msgstr ""
